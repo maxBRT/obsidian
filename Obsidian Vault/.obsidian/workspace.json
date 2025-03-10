@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "c2bebe77c70af109",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7e9198d8c314a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b3d518b333a59bc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2b73cf403fc88b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1baf846e11cb88d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e0d102e67550bc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7a1aba68a41b3519",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "64dce9fce98d5ce4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5b8a209e4ba3b324",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd0188733e8f9392",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa0378c1eff3ff1a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 - Main Notes/Poème 5204.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Poème 5204"
+            }
+          },
+          {
+            "id": "bddacf61258afb7d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 - Main Notes/Poème 5204.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Poème 5204"
+            }
+          },
+          {
+            "id": "77e98b723ce4594e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "834c4cb48cd594a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 - Main Notes/Poème 5204.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Poème 5204"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4b3d518b333a59bc",
+  "lastOpenFiles": [
+    "3 - Tags/littérature.md",
+    "3 - Tags/tools.md",
+    "3 - Tags/recipe.md",
+    "2 - Source Material/Coding Resources.md",
+    "1 - Rough Notes/CS Topics.md",
+    "1 - Rough Notes/Go Basics.md",
+    "1 - Rough Notes/Qu'est ce qu'un classique.md",
+    "6 - Template/Class note.md",
+    "6 - Template/Full Note.md",
+    "5 - Main Notes/Critique - L'écume des jours.md",
+    "5 - Main Notes/Poème 5204.md",
+    "3 - Tags/fiction.md",
+    "3 - Tags/écriture.md",
+    "5 - Main Notes/poésie.md",
+    "2 - Source Material/L'écume des jours - Boris Vian.md",
+    "3 - Tags/poésie.md",
+    "5 - Main Notes/Ramen Salad.md",
+    "1 - Rough Notes/Procédés Stylistique.md",
+    "5 - Main Notes/Boris vian blabla.md",
+    "6 - Template",
+    "5 - Main Notes",
+    "Untitled.md",
+    "4 - Indexes",
+    "3 - Tags",
+    "2 - Source Material",
+    "1 - Rough Notes",
+    "Welcome.md",
+    "Rough Notes"
+  ]
+}
